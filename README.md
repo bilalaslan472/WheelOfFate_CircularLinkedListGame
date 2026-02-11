@@ -24,3 +24,6 @@ int main() {
     wheel.printCurrent();
     return 0;
 }
+Copyright © 2026 Bilal Aslan. All rights reserved.
+
+No part of this repository may be copied, modified, distributed, or used without explicit written permission from the author.
