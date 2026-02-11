@@ -1,4 +1,5 @@
-# WheelOfFate
+# WheelOfFate - Circular Linked List Game
+Author:Bilal ASLAN
 
 A C++ implementation of a hybrid data structure combining a **circular linked list**, **stack**, and **hash table**.  
 It allows "spinning" through nodes with deterministic but dynamic skip values and supports rollback.
